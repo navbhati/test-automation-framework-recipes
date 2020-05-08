@@ -1,2 +1,3 @@
 # test-automation-framework-recipes
-Test Automation Framework Boilerplate Projects
+
+Test Automation Framework Recipes for testing various scenarions using various tools.
